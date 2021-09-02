@@ -1,0 +1,31 @@
+@media screen and (max-width: 1057px) {
+    
+#scoreBox{
+    top: 5vh;
+    text-align: center;
+    font-size : 6vw;
+    font-weight: bold;
+    font-family: 'New Tegomin', serif;
+    right: 50vmin;
+    color: white;
+    position: fixed;
+}
+
+#hiscoreBox{
+    position: absolute;
+    top: 10vh;
+    right: 50vmin;
+    font-size : 6vw;
+    padding-top: 5px;
+    margin-bottom: 10px;
+    font-weight : bold;
+    font-family: 'New Tegomin',serif;
+    color: white;
+}
+
+.buttons{
+    display: flex;
+    visibility: inherit;
+}
+    
+}
