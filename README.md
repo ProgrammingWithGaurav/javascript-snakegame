@@ -7,11 +7,12 @@ This is snake game created with html, css and javascript and is responsive on bo
 https://dinogameweb.000webhostapp.com/
 
 #### when this website view in mobile the control key automatically appeared.
+
 ## Screenshots in Laptop
 
-![App Screenshot](https://scrnli.com/uploads/6/6e/6e3/6e3f/6e3f5/6e3f54/6e3f5494-bf77-0d65-958d-c3217087c5c1/dFQuBb0f2wLdy9)
+![App Screenshot](https://drive.google.com/file/d/1bI1BVTk79Odgcbkb1oVbLv_6ka7FQ_ZT/view?usp=sharing)
 
 
 ## Screenshots in Mobile
 
-![App Screenshot](https://scrnli.com/B79Tdhw9QwNlku)
+![App Screenshot](https://drive.google.com/file/d/1vWsyFO6j0BtFlKJPdocVL9X7vdPloxst/view?usp=sharing)
