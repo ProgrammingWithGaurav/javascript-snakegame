@@ -10,9 +10,9 @@ https://dinogameweb.000webhostapp.com/
 
 ## Screenshots in Laptop
 
-![App Screenshot](https://drive.google.com/file/d/1bI1BVTk79Odgcbkb1oVbLv_6ka7FQ_ZT/view?usp=sharing)
+![App Screenshot](./img/laptop.png)
 
 
 ## Screenshots in Mobile
 
-![App Screenshot](https://drive.google.com/file/d/1vWsyFO6j0BtFlKJPdocVL9X7vdPloxst/view?usp=sharing)
+![App Screenshot](./img/mobile.png)
