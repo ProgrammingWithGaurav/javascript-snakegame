@@ -14,4 +14,4 @@ https://dinogameweb.000webhostapp.com/
 
 ## Screenshots in Mobile
 
-![App Screenshot](https://scrnli.com/uploads/6/6e/6e3/6e3f/6e3f5/6e3f54/6e3f5494-bf77-0d65-958d-c3217087c5c1/88Ss6MktnWNymS)
+![App Screenshot](https://scrnli.com/B79Tdhw9QwNlku)
