@@ -4,7 +4,7 @@
 This is snake game created with html, css and javascript and is responsive on both mobile and pc
 
 ### link:
-https://dinogameweb.000webhostapp.com/
+https://javascriptsnakegame2.netlify.app/
 
 #### when this website view in mobile the control key automatically appeared.
 
